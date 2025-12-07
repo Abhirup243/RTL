@@ -1,6 +1,5 @@
 import { render, screen } from "@testing-library/react"
 import Greet from "./Greet"
-import { text } from "stream/consumers";
 
 describe('Greet', () => {
     test('Greet renders correctly', () => {

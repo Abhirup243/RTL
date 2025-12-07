@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1765113020958" clover="3.2.0">
-  <project timestamp="1765113020958" name="All files">
-    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
+<coverage generated="1765133306227" clover="3.2.0">
+  <project timestamp="1765133306228" name="All files">
+    <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="13" coveredelements="13" complexity="0" loc="9" ncloc="9" packages="2" files="2" classes="2"/>
+    <package name="Counter">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="Counter.tsx" path="C:\Users\silvi\OneDrive\Desktop\random\test\react-testing-app\src\components\Counter\Counter.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Greet">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Greet.tsx" path="C:\Users\silvi\OneDrive\Desktop\random\test\react-testing-app\src\components\Greet\Greet.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
   </project>
 </coverage>

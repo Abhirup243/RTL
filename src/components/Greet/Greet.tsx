@@ -1,6 +1,4 @@
-interface GreetProps {
-    name?: string;
-}
+import { GreetProps } from "./Greet.types";
 
 const Greet = ({ name }: GreetProps) => {
     return (

@@ -9,9 +9,10 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "jest",
-     "test:changed": "jest --onlyChanged"
+    "test:changed": "jest --onlyChanged"
   },
   "dependencies": {
+    "@testing-library/user-event": "^14.6.1",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
